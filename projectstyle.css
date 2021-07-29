@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 10;
+}
+body {
+  font-family: sans-serif;
+  background-color: rgb(235, 230, 240);
+}
+h4 {
+  font-size: 18px;
+}
